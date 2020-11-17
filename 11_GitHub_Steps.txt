@@ -1,0 +1,19 @@
+Steps
+1) Download git - https://git-scm.com/download/win
+2) Create github account
+
+
+git clone https://github.com/tvkarthik05/test.git
+git branch new_branch
+git branch
+git checkout new_branch
+cd test
+git add code.ipynb
+git commit -m "first commit"
+git push -u origin new_branch
+
+# Delete a branch
+git branch -d branch_name
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
