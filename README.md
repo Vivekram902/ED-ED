@@ -1,1 +1,1 @@
-# ED-ED
+# Python class codes - EDVCR
